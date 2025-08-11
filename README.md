@@ -1,2 +1,2 @@
-# Time-of-Arrival self-localization problems by elimination templates
+# Time-of-Arrival self-localization problems
 

@@ -1,6 +1,6 @@
 # Minimal Time-of-Arrival self-localization problems
 
-The $m$-senders / $n$-receivers ($m$s / $n$r) Time-of-Arrival (ToA) self-localization problem involves determining the relative positions of $m$ senders $\mathbf s_i$ and $n$ receivers $\mathbf r_k$ in 2D or 3D space, given pairwise distance measurements $d_{ik}$ derived from signal propagation times.
+The *m*-senders/*n*-receivers (*m*s/*n*r) Time-of-Arrival (ToA) self-localization problem involves determining the relative positions of $m$ senders $\mathbf s_i$ and $n$ receivers $\mathbf r_k$ in 2D or 3D space, given pairwise distance measurements $d_{ik}$ derived from signal propagation times.
 
 <p align="center">
   <img src="toa46.png" width="32%"/>

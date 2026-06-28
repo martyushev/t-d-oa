@@ -6,7 +6,7 @@ The $m$-senders\,/\,$n$-receivers ($m$\,s\,/\,$n$\,r) Time-of-Arrival (ToA) self
   <img src="toa46.png" width="32%"/>
 </p>
 <p align="center">
-  <em>Illustration of the 3D 4-senders / 6-receivers ToA self-localization problem</em>
+  <em>Illustration of the 3D 4s/6r ToA self-localization problem</em>
 </p>
 
 A problem is considered *minimal* when it admits a finite (but non‑zero) number of solutions for generic distance measurements. This repository contains MATLAB solvers for the following minimal ToA problems:
